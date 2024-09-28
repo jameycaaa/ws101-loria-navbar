@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/ws101-loria-navbar/static/css/main.bcfd9e97.css",
+    "main.js": "/ws101-loria-navbar/static/js/main.bb3d4575.js",
+    "static/js/453.ed3810f9.chunk.js": "/ws101-loria-navbar/static/js/453.ed3810f9.chunk.js",
+    "static/media/my-image.png": "/ws101-loria-navbar/static/media/my-image.1f5866ecb20d4457bc69.png",
+    "static/media/mission-image.png": "/ws101-loria-navbar/static/media/mission-image.8d026007d1ad5e53429a.png",
+    "index.html": "/ws101-loria-navbar/index.html",
+    "main.bcfd9e97.css.map": "/ws101-loria-navbar/static/css/main.bcfd9e97.css.map",
+    "main.bb3d4575.js.map": "/ws101-loria-navbar/static/js/main.bb3d4575.js.map",
+    "453.ed3810f9.chunk.js.map": "/ws101-loria-navbar/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bcfd9e97.css",
+    "static/js/main.bb3d4575.js"
+  ]
+}
